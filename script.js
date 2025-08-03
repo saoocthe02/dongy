@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Em chắc chưa?",
+    "Chị chắc chưa?",
     "Thật lòng chứ?",
     "Không đổi ý nha?",
-    "Bé yêu ơi...",
+    "Chị Lan Anh ơi...",
     "Suy nghĩ kỹ đi mà~",
-    "Nếu nói không, anh sẽ buồn lắm đấy...",
-    "Anh sẽ rất rất buồn...",
-    "Anh sẽ buồn cả thế giới này mất...",
-    "Ừ thôi, anh không ép nữa...",
-    "Đùa thôi, nói có đi mà! ❤️"
+    "Nếu nói không, em sẽ buồn lắm đấy...",
+    "Em sẽ rất rất buồn...",
+    "Em sẽ buồn cả thế giới này mất...",
+    "Ừ thôi, em không ép nữa...",
+    "Đùa thôi, đồng ý đi mà!"
 ];
 
 let messageIndex = 0;
